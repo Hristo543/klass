@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\hr\Klass\Klass\bin\Debug\net8.0\Klass.exe
+C:\Users\Student\Desktop\hr\Klass\Klass\bin\Debug\net8.0\Klass.deps.json
+C:\Users\Student\Desktop\hr\Klass\Klass\bin\Debug\net8.0\Klass.runtimeconfig.json
+C:\Users\Student\Desktop\hr\Klass\Klass\bin\Debug\net8.0\Klass.dll
+C:\Users\Student\Desktop\hr\Klass\Klass\bin\Debug\net8.0\Klass.pdb
+C:\Users\Student\Desktop\hr\Klass\Klass\obj\Debug\net8.0\Klass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\hr\Klass\Klass\obj\Debug\net8.0\Klass.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\hr\Klass\Klass\obj\Debug\net8.0\Klass.AssemblyInfo.cs
+C:\Users\Student\Desktop\hr\Klass\Klass\obj\Debug\net8.0\Klass.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\hr\Klass\Klass\obj\Debug\net8.0\Klass.dll
+C:\Users\Student\Desktop\hr\Klass\Klass\obj\Debug\net8.0\refint\Klass.dll
+C:\Users\Student\Desktop\hr\Klass\Klass\obj\Debug\net8.0\Klass.pdb
+C:\Users\Student\Desktop\hr\Klass\Klass\obj\Debug\net8.0\Klass.genruntimeconfig.cache
+C:\Users\Student\Desktop\hr\Klass\Klass\obj\Debug\net8.0\ref\Klass.dll
